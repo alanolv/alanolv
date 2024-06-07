@@ -1,28 +1,53 @@
-### Welcome to my github
+<h2 align="left">Hi 👋! My name is Alan Olvera Cristino and I'm a Software Engineer from México</h2>
 
+###
 
-My name is Alan Olvera Cristino, I am a Mexican software engineering student, I am currently developing private and personal projects
+<p align="left">Hello, Welcome to my Github profile, I am a really apasionated student, I am in the way to improve my skills as a developer and engineer, strong believer of the power of the Engineering</p>
 
-About me:
+###
 
-- 🔭 I am currently looking for a job
-- 🌱 I am developing my skills in react 
-- 👯 I’m looking to collaborate on projects that can give me experience in software development 
+<div align="left">
+  <a href="www.linkedin.com/in/alan-olvera-cristino" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="olvera.cristino.alan@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
 
-⚡My Skills:
+###
 
-- Web Development 
-   - Html
-   - Css
-   - Javascript
-   - Mysql
-- Programming languages and frameworks:
-   -  C++
-   -  Python
-   -  Java 
-   -  React
- 
--  📫 How to reach me:
-   - https://www.linkedin.com/in/alan-olvera-cristino-98ba75229/}
-   - olvera.cristino.alan@gmail.com
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+</div>
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alanolv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+    <br>
+   <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alanolv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=alanolv&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+   <br>
+   <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alanolv&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
