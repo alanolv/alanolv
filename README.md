@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Alan Olvera Cristino and I'm a Software Engineer from México</h2>
+<h2 align="left">Hi 👋! My name is Alan and I'm a Mexican Software Engineer</h2>
 
 ###
 
-<p align="left">Hello, Welcome to my Github profile, I am a really apasionated student, I am in the way to improve my skills as a developer and engineer, strong believer of the power of the Engineering</p>
+<p align="left">Hello there! Welcome to my little corner of innovation — I'm a software and pop culture enthusiast.</p>
 
 ###
 
